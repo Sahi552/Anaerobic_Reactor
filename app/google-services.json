@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "29787829561",
+    "firebase_url": "https://dht11-fe021-default-rtdb.firebaseio.com",
+    "project_id": "dht11-fe021",
+    "storage_bucket": "dht11-fe021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29787829561:android:6357652e4203732a2724e8",
+        "android_client_info": {
+          "package_name": "com.example.dht11toapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqaABcLyE1Z6o4SgwnfW9iXm9aJ-2qrRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
